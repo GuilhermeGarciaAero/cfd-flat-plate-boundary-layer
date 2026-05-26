@@ -32,9 +32,7 @@ classical Blasius solution for laminar flow.
 | Software          | ANSYS Fluent 2021 R2 |
 | Flow Type         | External / Incompressible |
 | Fluid             | Air (standard conditions) |
-| Inlet Velocity    | [your value] m/s   |
-| Reynolds Number   | [your value]       |
-| Turbulence Model  | Laminar / k-ε / SST |
+| Inlet Velocity    |  1 m/s   |
 
 ---
 
